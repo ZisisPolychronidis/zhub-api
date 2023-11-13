@@ -1,8 +1,5 @@
 # zhub-api
 A simple web scraping API that gets the HLS links from PornHub videos.
-This is the API used in the VRChat world "Zilf House 2".
-
-
 
 ## Installation
 
