@@ -26,7 +26,7 @@ Step 5. Install express, request and cheerio.
 node install --save express request cheerio
 ```
 
-Step 6. Download the index.js file and put it inside your folder.
+Step 6. Download the file [index.js](https://github.com/ZisisPolychronidis/zhub-api/blob/dae6cab7b8260f9b4aed586442e5a7632d5710cd/index.js) and put it inside your folder.
 
 Step 7. Run the API.
 
