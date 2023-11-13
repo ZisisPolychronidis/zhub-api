@@ -16,13 +16,28 @@ Step 3. Open a terminal of your choice and go the path of your folder.
 cd zhub-api
 ```
 
-Step 4. Run the command:
+Step 4. Initialize Node.js in your folder:
+
+```
+node init
+```
+Enter the information you want. Wherever you don't know what to input just press Enter.
+
+Step 5. Install express, request and cheerio.
+
+```
+node install --save express request cheerio
+```
+
+Step 6. Download the index.js file and put it inside your folder.
+
+Step 7. Run the API.
 
 ```
 node index.js
 ```
 
-Step 5. Test the API.
+Step 8. Test the API.
 
 Go to http://localhost:5000/?id=video_id (change video_id with an actual id)
 
