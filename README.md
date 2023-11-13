@@ -5,7 +5,7 @@ A simple web scraping API that gets the HLS links from PornHub videos.
 
 Step 1. Install [Node.js](nodejs.org) on your computer.
 
-Step 2. Download the source code and put the folder somewhere in your computer.
+Step 2. Create a folder somewhere in your computer.
 
 Step 3. Open a terminal of your choice and go the path of your folder.
 
