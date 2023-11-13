@@ -16,7 +16,7 @@ cd zhub-api
 Step 4. Initialize Node.js in your folder:
 
 ```
-node init
+npm init
 ```
 Enter the information you want. Wherever you don't know what to input just press Enter.
 
